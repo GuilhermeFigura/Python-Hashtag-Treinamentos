@@ -1,6 +1,6 @@
 # Python-Hashtag-Treinamentos
 
-## Para atualizar o repositorio sem precisar fazer commit e reaproveitar o último commit
+## Para atualizar o repositorio precisar fazer commit e reaproveitar o último commit
 #### Abrir terminal
 #### git add .
 #### git status
